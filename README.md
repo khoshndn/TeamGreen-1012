@@ -16,13 +16,14 @@ We have decided to do the Mini-Database project for images. The main topic of ou
 •Requirements•
 
 1.	The files of this project will be HTML, CSS and JavaScript format.
-2.	The project will be able to tell if it is a new user or a recurring one.
+2.	When a user is trying to login the app will be able to tell if it is a new user or a recurring one.
 3.	Before being able to use the website or the app a name will be required
 4.	There will be an error alert or message display if the input is invalid.
-5.	If the input is valid, 4 images will be displayed in the display box.
+5.	If the input is valid, 4 images related to the country will be displayed in the display box.
 6.	Users will be able to view whatever they have searched in a list format once they are done.
 7.	User can can search for any country that is available on data base.
 8.	The search data will be deleted once the user is done with the app and views their search list.
 9.	Welcome screen will be displayed before user being able to input data.
 10.	When the user search for a country, if the input is invalid an error will be displayed.
+11.	When the welcome screen is displayed there will be a "continue" button to go to the main page. 
 
